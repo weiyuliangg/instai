@@ -1,5 +1,10 @@
 {
-  "name": "webapp",
+  "website": "website", 
+  "concatcss":"mycss",
+  "cssmin":"mycss.min",
+  "concatjs":"global",
+  "jsmin":"global.min",
+  
   "devDependencies": {
     "connect-livereload": "^0.5.4",
     "grunt": "^1.0.1",
