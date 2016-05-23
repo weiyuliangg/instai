@@ -79,7 +79,7 @@ client: {
         },
         // '**' 表示包含所有的子目录
         // '*' 表示包含所有的文件
-        files: ['<%=pkg.website%>/*.html', '<%=pkg.website%>/css-dev/*', '<%=pkg.website%>/js-dev/*', '<%=pkg.website%>/images/**/*']
+        files: ['<%=pkg.website%>/*.html', '<%=pkg.website%>/css-dev/*', '<%=pkg.website%>/js-dev/*.js', '<%=pkg.website%>/images/**/*']
       }
     },
     //7、clean——清空文件、文件夹 

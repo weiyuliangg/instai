@@ -1,7 +1,7 @@
 {
   "website": "website", 
-  "concatcss":"mycss",
-  "cssmin":"mycss.min",
+  "concatcss":"global",
+  "cssmin":"global.min",
   "concatjs":"global",
   "jsmin":"global.min",
   
